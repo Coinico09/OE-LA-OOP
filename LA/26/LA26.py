@@ -5,7 +5,7 @@ class NinjaTurtle(ABC):
     @abstractmethod
     def alias(self):
         pass
-
+    
 class Leonardo(NinjaTurtle):
     def __init__(self, real_name, __alias):
         self.real_name = real_name
@@ -13,8 +13,8 @@ class Leonardo(NinjaTurtle):
 
     @property
     def alias(self):
-        return f"{self.real_name}, {self.__alias}"
-   
+        return f"Name: {self.real_name}. Nickname: {self.__alias}"
+        
 class Michaelangelo(NinjaTurtle):
     def __init__(self, real_name, __alias):
         self.real_name = real_name
@@ -22,8 +22,8 @@ class Michaelangelo(NinjaTurtle):
 
     @property
     def alias(self):
-        return f"{self.real_name}, {self.__alias}"
-
+        return f"Name: {self.real_name}. Nickname: {self.__alias}"
+        
 class Donatello(NinjaTurtle):
     def __init__(self, real_name, __alias):
         self.real_name = real_name
@@ -31,8 +31,8 @@ class Donatello(NinjaTurtle):
 
     @property
     def alias(self):
-        return f"{self.real_name}, {self.__alias}"
-   
+        return f"Name: {self.real_name}. Nickname: {self.__alias}"   
+    
 class Raphael(NinjaTurtle):
     def __init__(self, real_name, __alias):
         self.real_name = real_name
@@ -40,4 +40,4 @@ class Raphael(NinjaTurtle):
 
     @property
     def alias(self):
-        return f"{self.real_name}, {self.__alias}"
+        return f"Name: {self.real_name}. Nickname: {self.__alias}"
