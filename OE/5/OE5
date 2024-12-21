@@ -1,0 +1,82 @@
+
+Name: Garcia Jodel nicolo a.
+Yr/section: Bsit – 2a
+Game title: pokemon
+Game objects1: electric pokemon
+Attributes   (name, type, lvl, hp,)
+- ampharos 
+- electric type 
+- level 100
+- 384 hp
+- 273 attack
+- 295 defense
+- 361 sp attack
+- 306 sp defense
+- 229 speed
+
+Methods
+(skill, type, power, accuracy, pp)
+-thunder punch 
+-electric type
+-power: 75
+-accuracy: 100
+-pp: 15 (max 24)
+
+-electric terrain
+-electric type
+-Power: none
+-accuracy: 100
+-Pp: 10 (max 16)
+
+-light screen
+-psychic type
+-Power: ----
+-Accuracy:----
+-Pp: 30 (max 48)
+
+-wild charge
+-electric type
+-Power: 90
+-Accuracy: 100
+-Pp:15(max 24)
+
+
+Game object2: elite four line up
+Attributes: (name, type, lvl, hp, attack, def, sp attack, sp def, speed) 9
+-roserade
+- grass and poison type
+-lvl 100
+-324 hp
+-262 attack
+-251 defense
+-383  sp attack
+-339 sp defense
+-306 speed
+Methods:
+(skill, type, power, accuracy, pp) 5
+
+-bullet seed
+-grass type
+-power: 25
+-accuracy: 100 
+- pp: 30 (max48) 
+
+-giga drain
+-grass type
+-power: 75
+-accuracy: 100
+- pp: 10 (max.16) 
+
+-toxic spikes
+-poison type
+- power: ---
+-accuracy: ----
+-pp: 20 (max.32)
+
+-poison jab
+-poison type
+-power: 80
+-accuracy: 100
+-pp : 20 (max.32)
+
+
